@@ -1,0 +1,11 @@
+Name - Shahzaib Mustafa           Roll No - 24
+sir i have recently done the activity and i just observe few things about the search engines you mention in the github.
+
+Google 
+i was always using google as my search engine and it show me all the history searches which i previously searched all i want to say that google is working on all my history like if this person types something like this so what will be the few suggestion to show to this person all the google algorthms work on the user data from what time the user has bieng using and what he is searching.
+
+Bing 
+in the bing search engine firstly i have feel the change about its interface bieng attractive and the second thing i just realize its searching on the letters more focusing one by one like when you finish on the 'introuduction' word it will show you less suggestion mean the search engine doesnt know what to do as ypu type 'to' it will show you a long suggestion list to the context 'intoruduction to' and when you start typing text it will show the suggestion according to the word text in to its datsets.
+
+duckduckgo
+according to my observations its suggestions work on its data sets like it works on how possibly the next word could be it takes a deep view on its datasets look on the possible suggestions and it algorthims works on the locations email and intrust of the user.
